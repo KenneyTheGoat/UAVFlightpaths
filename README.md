@@ -34,9 +34,9 @@ python vis.py
 User manual is provided together with documentation on seperate document
 
 ## Collaborate with your team
-1. Max Mkhabela (MKHMAX0003)
-2. Kenneth Baloyi (BLYKEN007)
-3. Lethabo Neo (NXXLET001)
+1. Max Mkhabela 
+2. Kenneth Baloyi 
+3. Lethabo Neo 
 
 ## Support
 For issues or questions, open an issue on the GitLab project.

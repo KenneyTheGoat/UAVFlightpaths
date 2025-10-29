@@ -1,0 +1,7 @@
+numpy
+trimesh
+scipy
+opencv-python
+Pillow
+open3d
+glfw

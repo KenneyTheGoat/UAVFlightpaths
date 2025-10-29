@@ -22,10 +22,10 @@ This application provides a comprehensive 3D visualization environment for Unman
    `
 
 ## Usage
-### `vsl_2.py`
+### `vis.py`
 Main GUI application for UAV trajectory visualization:
 
-python vsl_2.py
+python vis.py
 
 - Launches a Tkinter-based interface with collapsible panels for model loading, trajectory management, waypoint editing, camera controls, flight simulation, and recording.
 - Interactive 3D view powered by Open3D, waypoint list, FPV preview, and trajectory metrics display.
